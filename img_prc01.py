@@ -1,5 +1,6 @@
 '''
 Image Filtering Compression
+Coded by Youngsik Kim 2018.06.18
 '''
 import numpy as np
 import matplotlib.pyplot as plt
